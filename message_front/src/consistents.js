@@ -1,0 +1,1 @@
+export const BaseUrl = 'https://message-15jjr6usp-seasons-projects-152f7961.vercel.app';
